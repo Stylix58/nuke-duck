@@ -1,2 +1,0 @@
-# nuke-duck
-Begin app
